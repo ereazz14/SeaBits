@@ -46,29 +46,33 @@ Eğer projeyi kendi bilgisayarınızda geliştirmek isterseniz:
 
 Depoyu klonlayın:
 
-Bash
+```Bash
 
 git clone https://github.com/ereazz14/SeaBits.git
 Klasöre girin:
-
-Bash
+```
+```Bash
 
 cd SeaBits
 Bağımlılıkları yükleyin:
+```
 
-Bash
+```Bash
 
 npm install
 Geliştirme modunda çalıştırın:
+```
 
-Bash
+```Bash
 
 npm run dev
 Kendi .exe dosyanızı oluşturun:
+```
 
-Bash
-
+```Bash
 npm run electron:build
+```
+
 📥 İndir
 Uygulamayı direkt kullanmak için sağ taraftaki Releases kısmından güncel sürümü .zip olarak indirebilirsiniz.
 
