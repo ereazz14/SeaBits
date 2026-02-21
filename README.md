@@ -49,25 +49,32 @@ Depoyu klonlayın:
 ```Bash
 
 git clone https://github.com/ereazz14/SeaBits.git
-Klasöre girin:
+
 ```
+
+Klasöre girin:
+
 ```Bash
 
 cd SeaBits
-Bağımlılıkları yükleyin:
+
 ```
+
+Bağımlılıkları yükleyin:
 
 ```Bash
 
 npm install
-Geliştirme modunda çalıştırın:
+
 ```
+Geliştirme modunda çalıştırın:
 
 ```Bash
 
 npm run dev
-Kendi .exe dosyanızı oluşturun:
+
 ```
+Kendi .exe dosyanızı oluşturun:
 
 ```Bash
 npm run electron:build
