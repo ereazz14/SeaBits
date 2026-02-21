@@ -1,5 +1,29 @@
-🌊 SeaBits 📘
-SeaBits, görev yönetimi (To-Do) disiplinini eğlenceli bir okyanus simülasyonuyla birleştiren modern bir masaüstü verimlilik uygulamasıdır. Görevlerinizi tamamlayın, coin kazanın ve kendi okyanus ekosisteminizi inşa edin!
+<div align="center">
+
+# 🌊 SeaBits
+### Verimlilik Okyanusunuzu İnşa Edin
+
+<p>
+    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Gamification-FFD700?style=for-the-badge&logo=google-play&logoColor=black" alt="Gamification" />
+</p>
+
+<p>
+  <b>SeaBits</b>, sıkıcı görev yönetimi (To-Do) disiplinini eğlenceli ve yaşayan bir 
+  <br>
+  <b>okyanus simülasyonuna</b> dönüştüren modern bir masaüstü verimlilik istasyonudur.
+</p>
+
+<p align="center">
+  🎯 <b>Odaklan</b> &nbsp;&bull;&nbsp; 🪙 <b>Coin Kazan</b> &nbsp;&bull;&nbsp; 🐠 <b>Ekosistemi Büyüt</b>
+</p>
+
+</div>
+
+---
 
 
 
