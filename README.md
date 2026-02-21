@@ -1,7 +1,6 @@
 🌊 SeaBits 📘
 SeaBits, görev yönetimi (To-Do) disiplinini eğlenceli bir okyanus simülasyonuyla birleştiren modern bir masaüstü verimlilik uygulamasıdır. Görevlerinizi tamamlayın, coin kazanın ve kendi okyanus ekosisteminizi inşa edin!
 
-<img width="425" height="745" alt="ikon" src="https://github.com/user-attachments/assets/c6124648-a966-4910-ab45-36f32f6bdbd9" />
 
 
 ✨ Temel Özellikler
